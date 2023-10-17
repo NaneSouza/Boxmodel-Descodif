@@ -1,0 +1,38 @@
+
+body{
+    height: 400px;
+    width: 400px;
+}
+
+section{
+    height: 400px;
+    width: 400px;
+    border-width: 20px;
+    border-style: solid;
+    border-color: blueviolet;
+    background-image: url('img/amorperfeitoflor.png');
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position:center; 
+    text-align: center;
+    box-shadow: inset 5px 5px 10px 5px red;
+    padding: 10px; 
+    outline-width: 15px;
+    outline-style: double;
+    outline-color: rgb(164, 43, 118);
+    margin: auto;
+    margin-top: 55px;
+    margin-left: 400px;
+    margin-bottom: 50px;
+}
+
+p {
+    padding: center;
+    padding-top: 120px;
+    font-style: bold;
+    font-weight: bold;
+    font-size: 50px;
+    color: yellow;
+    font-weight: bold;
+}
+    
